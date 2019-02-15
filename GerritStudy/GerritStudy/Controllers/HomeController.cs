@@ -11,6 +11,7 @@ namespace GerritStudy.Controllers
         public ActionResult Index()
         {
             //First Commit
+            //Second Commit
             ViewBag.Message = "Welcome to ASP.NET MVC!";
 
             return View();

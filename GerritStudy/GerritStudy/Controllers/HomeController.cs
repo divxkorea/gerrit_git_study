@@ -15,6 +15,7 @@ namespace GerritStudy.Controllers
             //Third Commit
             //Fourth Commit
             //Ammend Commit
+            //수정 중......
             ViewBag.Message = "Welcome to ASP.NET MVC!";
 
             return View();
